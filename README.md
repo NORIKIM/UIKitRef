@@ -11,10 +11,11 @@ UIKit 참고 사이트 및 github
 
 바로가기 -> https://github.com/NORIKIM/UIKitRef/blob/main/UITableView/AnimatingTableViewHeader-master.zip
 
+<br>
 
 ### Expandable TableView Cell
 
-<img src="[https://miro.medium.com/v2/resize:fit:640/format:webp/1*CVdA_hwvBa2_3JGUol3_Vg.png](https://miro.medium.com/v2/resize:fit:640/format:webp/1*H5JT3qRMJE2U-xA7FMdLmg.gif)">
+<img width=300 src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*H5JT3qRMJE2U-xA7FMdLmg.gif">
 
 원문 -> 
 

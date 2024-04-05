@@ -10,3 +10,14 @@ UIKit 참고 사이트 및 github
 원문 -> https://github.com/MichiganLabs/AnimatingTableViewHeader
 
 바로가기 -> https://github.com/NORIKIM/UIKitRef/blob/main/UITableView/AnimatingTableViewHeader-master.zip
+
+### Expandable TableView Cell
+
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*CVdA_hwvBa2_3JGUol3_Vg.png">
+
+원문 -> 
+
+https://github.com/ArtiomKha/ExpandableTableViewCells
+https://levelup.gitconnected.com/an-expandable-uitableview-cells-in-swift-cc286b496a18
+
+바로가기 -> https://github.com/NORIKIM/UIKitRef/blob/main/UITableView/ExpandableTableViewCells.zip
